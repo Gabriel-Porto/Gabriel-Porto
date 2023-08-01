@@ -9,4 +9,4 @@
 </p>
 
 - 👀 I’m interested in Web Development, but I specialize in Front-End.
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
+- 🌱 I’m currently learning React.
