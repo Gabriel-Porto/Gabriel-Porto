@@ -11,6 +11,10 @@
 
 - 🔍 I’m currently specializing React.
 - 👀 I’m interested in Web Development, but I specialize in Front-End.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Porto&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel-Porto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
   
 ## Some techs I have experience with:
 ![React](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react&logoColor=%2361DAFB)
