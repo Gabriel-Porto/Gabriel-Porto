@@ -13,7 +13,16 @@
 - 👀 I’m interested in Web Development, but I specialize in Front-End.
 
 ![GitHub Stats](https://github-readme-stats-gabriel.vercel.app/api?username=Gabriel-Porto&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&htitle_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel-Porto&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&hide_title=true)
+
+<hr>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<p align="center">
+<a href="https://github.com/HalemoGPA/">
+      <img width=325  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HalemoGPA&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+ </a>
+</p>
+<hr>
 
   
 ## Some techs I have experience with:
