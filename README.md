@@ -4,13 +4,31 @@
   </a>
 </h1>
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=This+is+Halemo+GPA;Nice+to+meet+you+%F0%9F%91%8B&center=true&size=30">
+  </a>
+</h1>
+   
+###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
+<p align="center">
+  Hi, I'm Abdel-Haleem, Computer Engineer & Software Developer from EGYPT
+  <br>
+  <br>
+  👨‍🎓 I'm currently studying for a Bachelor's degree in Mansoura University Computer Science and Control System Engineering Department (CCSED)
+  <br>
+  💻 I love Writing code, Hardware and learning anything about them 😊
+  <br>
+  📚 I’m currently focusing on Data Science 
+  <br>
+  📫 How to reach me 👇
+</p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/gabriel-porto-a7293b199/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=23></a> <a href="mailto:gabrieljoserporto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=23></a>
 </p>  
 
 
-- 🔍 I’m currently specializing React.
-- 👀 I’m interested in Web Development, but I specialize in Front-End.
 
 ![GitHub Stats](https://github-readme-stats-gabriel.vercel.app/api?username=Gabriel-Porto&theme=dark&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&htitle_color=E94D5F&text_color=FFF&hide_title=true&hide=stars)
 
